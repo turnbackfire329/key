@@ -45,7 +45,9 @@ string1: |
     hostname: localhost
     port: 3012
     username: root
-    password: root# https://tea.xyz/what-is-this-file
+    password: root# 
+
+https://tea.xyz/what-is-this-file
 ---
 version: 1.0.0
 codeOwners:
